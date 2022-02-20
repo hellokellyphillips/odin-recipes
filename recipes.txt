@@ -1,0 +1,11 @@
+Banana Pancakes h1
+
+Image of the pancakes
+
+Paragraph about what they are and why I'm including it. Intro.
+
+H2 ingredients
+Unordered ist of ingredients
+
+H2 instructions
+Ordrered list of how to make
